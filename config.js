@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "from mt to hg",
+    titleWeb: "from tmt to hg",
     introTitle: 'à nhon',
     introDesc: `chào mừng đến với sự vô tri của tmt`,
     btnIntro: 'hí',
